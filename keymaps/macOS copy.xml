@@ -6,6 +6,10 @@
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="shift meta b" />
   </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
+  </action>
   <action id="Console.Execute.Multiline" />
   <action id="Console.SplitLine" />
   <action id="Console.TableResult.DeleteRows" />
@@ -74,8 +78,16 @@
   <action id="RemoteHostView.EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="ReplaceInPath" />
+  <action id="RerunTests">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="page_down" />
   </action>
