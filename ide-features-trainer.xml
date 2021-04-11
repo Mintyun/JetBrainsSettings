@@ -1,6 +1,11 @@
 <application>
   <component name="LangManager">
     <option name="languageName" value="go" />
+    <option name="languageToProjectMap">
+      <map>
+        <entry key="go" value="$USER_HOME$/workzone/LearnGoProject" />
+      </map>
+    </option>
   </component>
   <component name="LessonStateBase">
     <option name="map">
@@ -43,7 +48,7 @@
         <entry key="quick-fixes, refactorings, and external documentation" value="NOT_PASSED" />
         <entry key="quick_fixes_create_type_and_type_incompatibility" value="NOT_PASSED" />
         <entry key="select" value="NOT_PASSED" />
-        <entry key="smart type completion" value="NOT_PASSED" />
+        <entry key="smart type completion" value="PASSED" />
         <entry key="smart type completion and pointers" value="NOT_PASSED" />
         <entry key="smart type completion for type assertions and switch constructions" value="NOT_PASSED" />
         <entry key="struct inspections" value="NOT_PASSED" />
