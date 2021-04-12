@@ -1,0 +1,7 @@
+<application>
+  <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="redshift">
+      <artifact id="Redshift" name="Redshift" use="true" version="2.0.0.3" />
+    </driver>
+  </component>
+</application>
