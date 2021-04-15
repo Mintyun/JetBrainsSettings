@@ -160,11 +160,11 @@
   </action>
   <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
-  <action id="leetcode.SubmitAction">
-    <keyboard-shortcut first-keystroke="ctrl meta t" />
-  </action>
   <action id="leetcode.editor.RunCodeAction">
     <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="leetcode.editor.SubmitAction">
+    <keyboard-shortcut first-keystroke="ctrl meta t" />
   </action>
   <action id="runShellFileAction">
     <keyboard-shortcut first-keystroke="shift ctrl r" />
