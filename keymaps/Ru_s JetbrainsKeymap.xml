@@ -12,9 +12,19 @@
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="shift meta b" />
   </action>
+  <action id="CollapseExpandableComponent">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+    <keyboard-shortcut first-keystroke="meta minus" />
+  </action>
   <action id="Console.Execute.Multiline" />
+  <action id="Console.Jdbc.Execute.2">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
   <action id="Console.SplitLine" />
   <action id="Console.TableResult.DeleteRows" />
+  <action id="Console.TableResult.EditValueMaximized">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
   <action id="Console.TableResult.Submit" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="DomElementsTreeView.DeleteElement">
@@ -33,7 +43,6 @@
   </action>
   <action id="EditorSplitLine" />
   <action id="EditorStartNewLine">
-    <keyboard-shortcut first-keystroke="shift enter" />
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
   <action id="EditorStartNewLineBefore">
@@ -55,6 +64,10 @@
   <action id="EditorTextStartWithSelection">
     <keyboard-shortcut first-keystroke="shift meta home" />
     <keyboard-shortcut first-keystroke="shift meta up" />
+  </action>
+  <action id="ExpandExpandableComponent">
+    <keyboard-shortcut first-keystroke="meta add" />
+    <keyboard-shortcut first-keystroke="meta equals" />
   </action>
   <action id="ExternalSystem.OpenConfig">
     <keyboard-shortcut first-keystroke="f4" />
@@ -91,6 +104,9 @@
   <action id="MoveStatementUp" />
   <action id="NavBar-navigate">
     <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="OpenInRightSplit">
+    <mouse-shortcut keystroke="alt button1 doubleClick" />
   </action>
   <action id="ProjectViewEditSource">
     <keyboard-shortcut first-keystroke="f4" />
