@@ -6,6 +6,10 @@
           <option name="url" value="git@gitlab.com:joycastle/bi/data_center_process.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@codeup.teambition.com:joycastle/mm/GMServer.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/workzone/joycastle" />
