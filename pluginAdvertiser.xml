@@ -192,11 +192,6 @@
                       <FeaturePluginData displayName="Lua Remote(Mobdebug)" pluginName="EmmyLua" pluginId="com.tang" />
                     </value>
                   </entry>
-                  <entry key="nginx.configuration.type">
-                    <value>
-                      <FeaturePluginData displayName="nginx server" pluginName="nginx Support" pluginId="ideanginx9" />
-                    </value>
-                  </entry>
                   <entry key="tests">
                     <value>
                       <FeaturePluginData displayName="Python tests" pluginName="Python" pluginId="Pythonid" bundled="true" />
