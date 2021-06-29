@@ -4,11 +4,11 @@
     <extensionMap>
       <mapping pattern="exceptions.py" type="AUTO_DETECTED" />
       <mapping ext="build" type="Dockerfile" />
-      <mapping ext="exclude" type="PLAIN_TEXT" />
-      <removed_mapping ext="nginx" approved="true" type="Nginx Configuration" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="exclude" type="PLAIN_TEXT" />
+      <removed_mapping ext="nginx" approved="true" type="Nginx Configuration" />
     </extensionMap>
   </component>
 </application>
