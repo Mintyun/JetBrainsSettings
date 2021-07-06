@@ -17,6 +17,7 @@
     <entry key="ide.tooltip.showAllSeverities" value="true" />
     <entry key="ide.tree.expand.navigatable.on.double.click.disabled" value="true" />
     <entry key="rider.enable.designer.winForms" value="true" />
+    <entry key="vcs.annotations.preload" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
