@@ -22,9 +22,13 @@
           <option name="url" value="git@gitlab.com:joycastle/bingo/server/nakama.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/bwmarrin/snowflake.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/workzone/joycastle" />
+    <option name="cloneParentDir" value="$USER_HOME$/workzone" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
