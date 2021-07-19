@@ -35,11 +35,19 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="2">
+        <list size="3">
           <item index="0" class="java.lang.String" itemvalue="airflow" />
           <item index="1" class="java.lang.String" itemvalue="sqlalchemy" />
+          <item index="2" class="java.lang.String" itemvalue="pyspark" />
         </list>
       </value>
+    </option>
+  </inspection_tool>
+  <inspection_tool class="PyStubPackagesAdvertiser" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="ignoredPackages">
+      <list>
+        <option value="pyspark-stubs==3.0.0.post1" />
+      </list>
     </option>
   </inspection_tool>
   <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
@@ -47,6 +55,9 @@
       <list>
         <option value="boto3" />
         <option value="dags.mm_dag.airflow" />
+        <option value="awsglue.transforms.Filter" />
+        <option value="awsglue.context.GlueContext.create_data_frame" />
+        <option value="awsglue.context.GlueContext.forEachBatch" />
       </list>
     </option>
   </inspection_tool>
