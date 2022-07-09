@@ -1,4 +1,4 @@
-<keymap version="1" name="Ru's JetbrainsKeymap" parent="Mac OS X 10.5+">
+<keymap version="1" name="Yun's JetbrainsKeymap" parent="Mac OS X 10.5+">
   <action id="$Delete">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
