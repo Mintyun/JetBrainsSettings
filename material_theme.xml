@@ -5,7 +5,6 @@
     <option name="compactStatusBar" value="true" />
     <option name="compactTables" value="true" />
     <option name="contrastMode" value="true" />
-    <option name="highContrast" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
@@ -19,6 +18,6 @@
     <option name="accentColor" value="ff9800" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-73d68e7:17867b6283d:-8000" />
-    <option name="version" value="7.7.1" />
+    <option name="version" value="7.14.2" />
   </component>
 </application>
