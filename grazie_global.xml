@@ -11,6 +11,7 @@
         <option name="suppressed">
           <set>
             <option value="多次请求" />
+            <option value="if it is has" />
           </set>
         </option>
       </SuppressingContext>
