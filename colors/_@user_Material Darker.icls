@@ -4,7 +4,7 @@
     <property name="created">2021-05-31T10:52:26</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2021.1.1.0.0</property>
-    <property name="modified">2023-08-21T16:45:25</property>
+    <property name="modified">2023-08-29T16:41:08</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -433,7 +433,6 @@
       <value>
         <option name="FOREGROUND" value="f78c6c" />
         <option name="EFFECT_COLOR" value="f78c6c" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
